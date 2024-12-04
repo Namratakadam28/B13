@@ -21,7 +21,7 @@ public class ArrayListExample
 		 System.out.println(o);
 	 }
 			 
-			 
+		System.out.println("Changes are done"); 
 			 
  }
 }
